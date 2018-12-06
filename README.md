@@ -1,10 +1,8 @@
 # ProgrammingProject
- A dataset simulated by a real-world phenomenon, please find the full project in ![Jupyter Noteboo](https://github.com/MartynaMisk/ProgrammingProject/blob/master/RealwolrdPhenomenon.ipynb)
- 
-![LOGO](https://github.com/MartynaMisk/NumpyRandom/blob/master/NumPy_logo.png
+ A dataset simulated by a real-world phenomenon, please find the full project in ![Jupyter Notebook](https://github.com/MartynaMisk/ProgrammingProject/blob/master/RealwolrdPhenomenon.ipynb)
  
  ## Main area of focus:
- 1. Research on how to build a Dataset
+ 1. Research on how to build a Dataset using pandas Dataframe
  2. Research aspects on what wil I base the Dataset
  3. Explain the relevance of the variables to eachother
  
@@ -15,7 +13,9 @@
  - Matplotlib
  
  ## Explanation of Dataset
-Dataset is demonstrate a sale of 20% on four different type of shoes and amount that is available during this sale. I have collected one-hundred data points across six diﬀerent variables. Those variables include: shoe size, shoe type, original prize, price of 20% dicount, sale price, and shoe type avaialble.
+Dataset demonstrate a sale of 20% on four different type of shoes and amount that is available during this sale. I have collected one-hundred data points across six diﬀerent variables. Those variables include: shoe size, shoe type, original prize, price of 20% dicount, sale price, and shoe type avaialble.
+
+![LOGO](https://github.com/MartynaMisk/ProgrammingProject/blob/master/dataset.jpg)
 
  ## Conclusion
  
