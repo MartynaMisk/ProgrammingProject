@@ -15,7 +15,7 @@
  ## Explanation of Dataset
 Dataset demonstrate a sale of 20% on four different type of shoes and amount that is available during this sale. I have collected one-hundred data points across six diﬀerent variables. Those variables include: shoe size, shoe type, original prize, price of 20% dicount, sale price, and shoe type avaialble.
 
-![LOGO](https://github.com/MartynaMisk/ProgrammingProject/blob/master/dataset.jpg)
+![LOGO](https://github.com/MartynaMisk/ProgrammingProject/blob/master/dataset2.jpg)
 
  ## Conclusion
  
